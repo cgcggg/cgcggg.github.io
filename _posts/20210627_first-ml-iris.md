@@ -1,7 +1,7 @@
-```python
-pwd
-```
-
+---
+layout: post
+title:  "붓꽃(iris)데이터로 학습시킨 첫 머신러닝!"
+---
 
 
 
