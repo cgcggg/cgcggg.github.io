@@ -4,6 +4,8 @@ title:  "타이타닉 생존자 예측 머신러닝 도전!"
 ---
 
 
+### Kaggle data set(titanic)
+
 
 ## 0 준비
   - 01 import
