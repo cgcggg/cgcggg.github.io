@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "네이버 (AI 관련 기사 Crawling & WordCloud "
+---
+
 ```python
 # 네이버에서 검색어 입력받아 검색 한 후 블로그 메뉴를 선택하고
 # 오른쪽에 있는 검색옵션 버튼을 눌러서
