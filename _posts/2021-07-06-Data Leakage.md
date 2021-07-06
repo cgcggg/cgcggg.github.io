@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Overfiting 이외 모델 학습 시 고려해야하는 부분?! DataLeakage "
+---
+
+
 ```python
 pwd
 ```
